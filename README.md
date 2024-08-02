@@ -7,6 +7,7 @@ Please see the coding file attached or reach the link below:
 Using Python to analyze transaction data from KPMG to evaluate user engagement from their first transaction
 ### 2. Dataset
 Dataset KPMG.xlsx includes one table containing transaction information of customers purchasing products in the year 2017
+
 ![image](https://github.com/user-attachments/assets/d69692ae-c072-44f2-ba3b-41818db1f03d)
 
 - There are some unneeded columns that do not use -> drop it to increase code performance
@@ -17,7 +18,7 @@ Dataset KPMG.xlsx includes one table containing transaction information of custo
 
 ### 3. Method: Cohort analysis
 #### Cohort analysis definition
-- Cohort analysis is a type of behavioral analytics in which you take a group of users, and analyze their usage patterns based on their shared traits to better track and understand their actions.
+- Cohort analysis is a type of behavioral analytics in which you take a group of users, and analyze their usage patterns based on their shared traits to better track and understand their actions
 - A cohort is simply a group of people with shared characteristics
 #### Three major types of Cohort
 - Time cohorts: customers who signed up for a product or service during a particular time frame.
@@ -29,8 +30,6 @@ Dataset KPMG.xlsx includes one table containing transaction information of custo
 - The cohort index would then be assigned to each of the customer’s purchases, which will represent the number of months since the first transaction
 ## II. Data Visualization with Python
 ![image](https://github.com/user-attachments/assets/55213c3d-cc18-4908-8be6-4cb6eb5bcd49)
-
-![image](https://github.com/thuhuongphan11/Python_Cohort_Analysis/assets/141643891/30c6e762-13a9-45e5-ac7d-b9dec1a55acf)
 
 ## III. Insights
 - In general, the retention rate at KPMG is quite stable, mostly maintained in the range of 31% to 45%. However, the number of customers who made the first purchase decreased sharply over the months, from 1347 customers (Jan 2017) to 4 customers (Dec 2017)
