@@ -1,5 +1,4 @@
 # [Python] Cohort_Analysis
-# Python_Cohort_Analysis
 Please see the coding file attached or reach the link below:
 [https://colab.research.google.com/drive/1U8vA5KmnwNfn0JHmAD7OZkWcbew8zp8p](https://colab.research.google.com/drive/1NeLZZffJJ9btLF9TnQy2TRYTlfre27uX#scrollTo=b5D0RXEnsP-Q)
 
